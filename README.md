@@ -97,6 +97,20 @@ The Power BI report is organized into **four pages**, each telling a part of the
 
 **Purpose:** Geographic insights and consolidated executive view.
 
+## Executive Summary
+
+* The Super Store generated $1.92M in total sales and $224K in total profit, demonstrating solid top-line performance with consistent month-over-month growth.
+* Approximately 49% of all orders are loss-making, revealing structural profitability challenges beyond overall revenue performance.
+* High discount levels are strongly correlated with negative profit margins, making discounting the primary driver of losses.
+* Returned orders, while low in volume, consistently show lower profitability and increase financial risk when combined with aggressive discounting.
+
+## Recommendations
+
+* Establish discount governance thresholds to limit margin erosion, especially for historically unprofitable products and regions.
+* Proactively monitor and manage high-risk orders by flagging transactions with deep discounts and high return likelihood.
+* Optimize the product and regional portfolio by reallocating focus toward consistently profitable categories and markets.
+* Enhance decision-making by extending analytics with predictive risk indicators for profitability and returns.
+
 ---
 
 ## ▶️ How to Run the Project
@@ -142,23 +156,6 @@ OluwasegunRaphael_SuperStore/
 │   └── dashboard_overview.png
 │
 └── README.md
-```
-
----
-
-## 🧠 Key Business Insights
-
-* A significant portion of orders are loss-making, often linked to high discounts
-* Certain regions consistently outperform others in both sales and profit
-* Returns and aggressive discounting negatively impact profitability
-* A small subset of high-risk orders disproportionately affects losses
-
----
-
-## 📌 Notes
-
-* There is no single correct solution; multiple analytical approaches were explored
-* The dashboard is designed for both executive-level summaries and detailed investigation
 
 ---
 
@@ -172,5 +169,6 @@ Super Store Analytics Project – Vega IT
 ## 📎 Submission Details
 
 * Repository is private
-* Ownership transferred to **@vegaitassignments**
-* Includes Power BI `.pbix` file and dashboard screenshot
+* Repository ownership transferred to **@vegaitassignments**
+* Includes Power BI `.pbix` file
+* Dashboard screenshot included 
