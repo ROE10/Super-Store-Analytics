@@ -26,7 +26,7 @@ Some insights require joining data across these sheets, which is handled in Pyth
 
   * pandas
   * numpy
-  * matplotlib / seaborn (for EDA)
+  * matplotlib / seaborn (for exploratory data analysis)
 * **Power BI Desktop** (latest version recommended)
 * **Git & GitHub** for version control
 
