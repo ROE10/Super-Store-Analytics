@@ -159,14 +159,14 @@ OluwasegunRaphael_SuperStore/
 
 ---
 
-## 👤 Author
+ 👤 Presented by
 
-**Oluwasegun Raphael**
+Oluwasegun Raphael
 Super Store Analytics Project – Vega IT
 
 ---
 
-## 📎 Submission Details
+ 📎 Submission Details
 
 * Repository is private
 * Repository ownership transferred to **@vegaitassignments**
