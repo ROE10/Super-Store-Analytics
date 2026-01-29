@@ -103,7 +103,7 @@ The Power BI report is organized into **four pages**, each telling a part of the
 
 ### 1. Python (Data Preparation)
 
-1. Ensure Python 3.x is installed
+1. Ensure Python 3.12 is installed
 2. Install required libraries:
 
    ```bash
@@ -127,7 +127,7 @@ The Power BI report is organized into **four pages**, each telling a part of the
 ## 📁 Repository Structure
 
 ```
-YourName_SuperStore/
+OluwasegunRaphael_SuperStore/
 │
 ├── data/
 │   └── super_store_us.xlsx
