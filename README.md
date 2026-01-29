@@ -109,8 +109,8 @@ The Power BI report is organized into **four pages**, each telling a part of the
    ```bash
    pip install pandas numpy matplotlib seaborn
    ```
-3. Open the notebook or Python script located in the `notebooks/` directory
-4. Run all cells (or the script) top-to-bottom
+3. Open the Jupyter Notebook(.ipynb) located in the `notebooks/` directory
+4. Run all cells
 5. The cleaned dataset will be generated for Power BI use
 
 ---
@@ -120,7 +120,7 @@ The Power BI report is organized into **four pages**, each telling a part of the
 1. Open **Power BI Desktop**
 2. Load the provided `.pbix` file from the `powerbi/` folder
 3. If prompted, refresh the data
-4. Use slicers (Region, Date, Segment, Discount, Returned) to explore insights interactively
+4. Use slicers (Region, Date, Customer Segment, Discount, Returned) to explore insights interactively
 
 ---
 
@@ -164,8 +164,8 @@ OluwasegunRaphael_SuperStore/
 
 ## 👤 Author
 
-**OluwasegunRaphael_SuperStore**
-Super Store Analytics Project – Vega IT Interview Assignment
+**Oluwasegun Raphael**
+Super Store Analytics Project – Vega IT
 
 ---
 
@@ -173,4 +173,4 @@ Super Store Analytics Project – Vega IT Interview Assignment
 
 * Repository is private
 * Ownership transferred to **@vegaitassignments**
-* Includes Power BI `.pbix` file and dashboard screenshots
+* Includes Power BI `.pbix` file and dashboard screenshot
