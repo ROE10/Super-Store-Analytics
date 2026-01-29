@@ -22,7 +22,7 @@ Some insights require joining data across these sheets, which is handled in Pyth
 
 ## 🛠️ Tech Stack
 
-* **Python 3.x**
+* **Python 3.12**
 
   * pandas
   * numpy
@@ -44,7 +44,7 @@ All data preparation and transformations were done using Python, including:
   * Returned flag
   * Loss-making orders indicator
   * Profit margin
-  * Discount levels (Normal / High)
+  * Discount levels
   * Time intelligence fields (Year, Month, Start of Month)
 * Preparing a clean, analysis-ready dataset for Power BI
 
