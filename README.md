@@ -162,13 +162,6 @@ OluwasegunRaphael_SuperStore/
  👤 Presented by
 
 Oluwasegun Raphael
-Super Store Analytics Project – Vega IT
+Super Store Analytics Project 
 
 ---
-
- 📎 Submission Details
-
-* Repository is private
-* Repository ownership transferred to **@vegaitassignments**
-* Includes Power BI `.pbix` file
-* Dashboard screenshot included 
