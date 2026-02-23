@@ -159,9 +159,9 @@ OluwasegunRaphael_SuperStore/
 
 ---
 
- 👤 Presented by
+ ## 👤 Author
 
-Oluwasegun Raphael
-Super Store Analytics Project 
+**Oluwasegun Raphael**  
+Data Analyst & Consultant
 
 ---
