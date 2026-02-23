@@ -1,4 +1,4 @@
-# Super Store Analytics Project
+# 🛒 Super Store Analytics Project
 
 ## 📌 Project Overview
 
