@@ -1,5 +1,10 @@
 # 🛒 Super Store Analytics Project
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
+![Python](https://img.shields.io/badge/Python-Analysis-blue?logo=python)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 ## 📌 Project Overview
 
 This project analyzes sales, profit, discounts, and returns data for a Super Store in the US. The goal is to uncover business insights, identify risk areas (loss-making and high-discount orders), and present findings through interactive dashboards for stakeholders.
